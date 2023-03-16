@@ -20,3 +20,5 @@ Top 10 countries (Iraq, Pakistan, Afghanistan, India, Colombia, Philippines, Per
 * Controlling access to Explosives and firearms all over the world will also reduce Global Terrorism to certain level.
 Incresing security in public places and private properties and building strong and highly trained military and police forces can reduce hazardous from terrorism significantly.
 * Strengthening security across borders and by taking measures on increased immigration in HOT ZONES will also help in controlling Global Terrorism. Even though attacks are decreasing, number are still high that's why this topic should address globally.
+## References :
+https://www.analyticsvidhya.com/blog/2022/03/exploratory-data-analysis-on-terrorism-dataset/
