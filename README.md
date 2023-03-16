@@ -1,0 +1,1 @@
+# MIPPS_Internship_Task_Global_Terrorism_at_Coders_Ready
